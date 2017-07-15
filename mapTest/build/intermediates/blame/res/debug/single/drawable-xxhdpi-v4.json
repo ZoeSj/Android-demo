@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\mapTest\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "F:\\AndroidCode\\WerbNews\\mapTest\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\mapTest\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_home_user_no_login.png",
+        "source": "F:\\AndroidCode\\WerbNews\\mapTest\\src\\main\\res\\drawable-xxhdpi\\icon_home_user_no_login.png"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\mapTest\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\search2.png",
+        "source": "F:\\AndroidCode\\WerbNews\\mapTest\\src\\main\\res\\drawable-xxhdpi\\search2.png"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\mapTest\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_home_voice_normal.png",
+        "source": "F:\\AndroidCode\\WerbNews\\mapTest\\src\\main\\res\\drawable-xxhdpi\\icon_home_voice_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\mapTest\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\left.png",
+        "source": "F:\\AndroidCode\\WerbNews\\mapTest\\src\\main\\res\\drawable-xxhdpi\\left.png"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\raw\\newdatatoast.wav",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\raw\\newdatatoast.wav"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\raw\\notificationsound.wav",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\raw\\notificationsound.wav"
+    }
+]

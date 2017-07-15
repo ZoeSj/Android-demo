@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\message_listitem.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\message_listitem.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\image_zoom_dialog.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\image_zoom_dialog.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\new_data_toast.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\new_data_toast.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\tweet_pub.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\tweet_pub.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\comment_pub.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\comment_pub.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\user_center_content.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\user_center_content.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\question_detail_footer.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\question_detail_footer.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\software_listitem.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\software_listitem.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\news_detail_header.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\news_detail_header.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\favorite_listitem.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\favorite_listitem.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\friend_listitem.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\friend_listitem.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\setting.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\setting.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\message_detail_footer.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\message_detail_footer.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\main_footer.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\main_footer.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\frame_software.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\frame_software.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\message_detail_header.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\message_detail_header.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\comment_list.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\comment_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\update_progress.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\update_progress.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\search_listitem.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\search_listitem.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\tweet_detail_header.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\tweet_detail_header.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\tweet_pub_footer.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\tweet_pub_footer.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\feedback.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\feedback.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\tweet_detail_content.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\tweet_detail_content.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\comment_listitem.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\comment_listitem.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\blog_detail.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\blog_detail.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_head.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\pull_to_refresh_head.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\tweet_detail.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\tweet_detail.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\tweet_detail_footer.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\tweet_detail_footer.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\question_pub.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\question_pub.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\gd_quick_action_bar.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\gd_quick_action_bar.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\news_detail.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\news_detail.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\question_listitem.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\question_listitem.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\news_detail_footer.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\news_detail_footer.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\message_detail_listitem.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\message_detail_listitem.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\main_header.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\main_header.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\preference_icon_more.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\preference_icon_more.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\question_detail_header.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\question_detail_header.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\question_detail.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\question_detail.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\gd_quick_action_grid_item.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\gd_quick_action_grid_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\blog_detail_header.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\blog_detail_header.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\preference_category.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\preference_category.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\software_detail.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\software_detail.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\message_pub.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\message_pub.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\user_favorite.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\user_favorite.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\search.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\search.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\question_tag.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\question_tag.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\comment_reply.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\comment_reply.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\start.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\start.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\comment_pub_header.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\comment_pub_header.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\blog_listitem.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\blog_listitem.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\preference.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\preference.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\frame_question.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\frame_question.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\user_friend.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\user_friend.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\message_detail.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\message_detail.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\image_dialog.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\image_dialog.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\tweet_pub_header.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\tweet_pub_header.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\user_center_header.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\user_center_header.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\active_listitem.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\active_listitem.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\news_listitem.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\news_listitem.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\listview_footer.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\listview_footer.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\user_center_footer.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\user_center_footer.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\comment_refer.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\comment_refer.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\user_center.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\user_center.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\frame_active.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\frame_active.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\user_info.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\user_info.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\message_forward.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\message_forward.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\tweet_listitem.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\tweet_listitem.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\loadingdialog.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\loadingdialog.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\login_dialog.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\login_dialog.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\frame_tweet.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\frame_tweet.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\gd_quick_action_bar_item.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\gd_quick_action_bar_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\blog_detail_footer.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\blog_detail_footer.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\frame_news.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\frame_news.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\softwarecatalog_listitem.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\softwarecatalog_listitem.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\question_pub_header.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\question_pub_header.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\layout\\gd_quick_action_grid.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\layout\\gd_quick_action_grid.xml"
+    }
+]

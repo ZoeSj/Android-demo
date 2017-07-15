@@ -1,0 +1,157 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:2:1-67:12
+	package
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:11:5-84
+	android:name
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:11:22-81
+uses-permission#android.permission.BAIDU_LOCATION_SERVICE
+ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.INTERNET
+ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.ACCES_MOCK_LOCATION
+ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:16:22-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:17:22-76
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:18:5-85
+	android:name
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:18:22-82
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:19:22-65
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:20:5-76
+	android:name
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:20:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:21:5-76
+	android:name
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:21:22-73
+uses-permission#android.permission.ACCESS_GPS
+ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:22:5-69
+	android:name
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:22:22-66
+uses-permission#android.permission.GET_TASKS
+ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:24:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:25:22-78
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:26:5-75
+	android:name
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:26:22-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:27:5-73
+	android:name
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:27:22-70
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:29:5-81
+	android:name
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:29:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:30:5-75
+	android:name
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:30:22-72
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:31:5-80
+	android:name
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:31:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:32:5-71
+	android:name
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:32:22-68
+uses-permission#android.permission.CAMERA
+ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:34:5-65
+	android:name
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:34:22-62
+application
+ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:36:5-65:19
+	android:label
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:39:9-41
+	android:allowBackup
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:37:9-35
+	android:icon
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:38:9-45
+	android:theme
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:40:9-40
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:41:9-43:64
+	android:value
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:43:13-61
+	android:name
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:42:13-52
+activity#com.mikyou.maptest.MainActivity
+ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:45:9-53:20
+	android:label
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:47:13-45
+	android:name
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:46:13-59
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:48:13-52:29
+action#android.intent.action.MAIN
+ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:49:17-69
+	android:name
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:49:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:51:17-77
+	android:name
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:51:27-74
+service#com.baidu.location.f
+ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:55:9-63:19
+	android:enabled
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:57:13-35
+	android:process
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:58:13-38
+	android:name
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:56:13-48
+intent-filter#com.baidu.location.service_v2.2
+ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:59:13-62:29
+action#com.baidu.location.service_v2.2
+ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:60:17-61:26
+	android:name
+		ADDED from F:\AndroidCode\WerbNews\mapTest\src\main\AndroidManifest.xml:60:25-71

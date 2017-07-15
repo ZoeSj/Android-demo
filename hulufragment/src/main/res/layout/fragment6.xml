@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/a6"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#3C6"
+        android:text="
+        大江东去，浪淘尽，千古风流人物。
+　　故垒西边，人道是，三国周郎赤壁。
+　　乱石穿空，惊涛拍岸，卷起千堆雪。
+　　江山如画，一时多少豪杰。
+　　遥想公瑾当年，小乔初嫁了，雄姿英发。
+　　羽扇纶巾，谈笑间，樯橹灰飞烟灭。
+　　故国神游，多情应笑我，早生华发。
+　　人间如梦，一樽还酹江月。"/>
+
+</LinearLayout>

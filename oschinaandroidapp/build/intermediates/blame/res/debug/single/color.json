@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\color\\frame_button_text_light.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\color\\frame_button_text_light.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\color\\secondary_text_light.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\color\\secondary_text_light.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\build\\intermediates\\res\\merged\\debug\\color\\primary_text_light.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\oschinaandroidapp\\src\\main\\res\\color\\primary_text_light.xml"
+    }
+]

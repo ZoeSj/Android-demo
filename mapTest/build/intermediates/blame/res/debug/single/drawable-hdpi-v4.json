@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\mapTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\end_point.png",
+        "source": "F:\\AndroidCode\\WerbNews\\mapTest\\src\\main\\res\\drawable-hdpi\\end_point.png"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\mapTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\order_pay_normal.png",
+        "source": "F:\\AndroidCode\\WerbNews\\mapTest\\src\\main\\res\\drawable-hdpi\\order_pay_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\mapTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_blue.png",
+        "source": "F:\\AndroidCode\\WerbNews\\mapTest\\src\\main\\res\\drawable-hdpi\\btn_blue.png"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\mapTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_map_bottom.png",
+        "source": "F:\\AndroidCode\\WerbNews\\mapTest\\src\\main\\res\\drawable-hdpi\\bg_map_bottom.png"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\mapTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\order_pay_pressed.png",
+        "source": "F:\\AndroidCode\\WerbNews\\mapTest\\src\\main\\res\\drawable-hdpi\\order_pay_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\mapTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_line_to_blue.png",
+        "source": "F:\\AndroidCode\\WerbNews\\mapTest\\src\\main\\res\\drawable-hdpi\\icon_line_to_blue.png"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\mapTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_gcoding.png",
+        "source": "F:\\AndroidCode\\WerbNews\\mapTest\\src\\main\\res\\drawable-hdpi\\icon_gcoding.png"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\mapTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\AndroidCode\\WerbNews\\mapTest\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\mapTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mylocation.png",
+        "source": "F:\\AndroidCode\\WerbNews\\mapTest\\src\\main\\res\\drawable-hdpi\\mylocation.png"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\mapTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_icon_searchbox_magnifier_2.png",
+        "source": "F:\\AndroidCode\\WerbNews\\mapTest\\src\\main\\res\\drawable-hdpi\\common_icon_searchbox_magnifier_2.png"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\mapTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_card_streetscape_blue.png",
+        "source": "F:\\AndroidCode\\WerbNews\\mapTest\\src\\main\\res\\drawable-hdpi\\icon_card_streetscape_blue.png"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\mapTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\start_point.png",
+        "source": "F:\\AndroidCode\\WerbNews\\mapTest\\src\\main\\res\\drawable-hdpi\\start_point.png"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\mapTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_bg.9.png",
+        "source": "F:\\AndroidCode\\WerbNews\\mapTest\\src\\main\\res\\drawable-hdpi\\top_bg.9.png"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\mapTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_landing_arrow.png",
+        "source": "F:\\AndroidCode\\WerbNews\\mapTest\\src\\main\\res\\drawable-hdpi\\icon_landing_arrow.png"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\mapTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_frame_press.png",
+        "source": "F:\\AndroidCode\\WerbNews\\mapTest\\src\\main\\res\\drawable-hdpi\\btn_frame_press.png"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\mapTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_blue_press.png",
+        "source": "F:\\AndroidCode\\WerbNews\\mapTest\\src\\main\\res\\drawable-hdpi\\btn_blue_press.png"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\mapTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_route_sectional_walk.png",
+        "source": "F:\\AndroidCode\\WerbNews\\mapTest\\src\\main\\res\\drawable-hdpi\\icon_route_sectional_walk.png"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\mapTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "F:\\AndroidCode\\WerbNews\\mapTest\\src\\main\\res\\drawable-hdpi\\icon.png"
+    }
+]

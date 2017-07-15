@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <ProgressBar
+        android:id="@+id/webView_pb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:max="100"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:visibility="gone"/>
+
+    <WebView
+        android:id="@+id/show_wb"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="match_parent">
+
+    </WebView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        <ImageButton
+            android:id="@+id/advance_btn"
+            android:onClick="advance"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="前进"
+            android:src="@drawable/button_blue_last"
+            android:background="#00000000"/>
+        <ImageButton
+            android:id="@+id/reload_btn"
+            android:onClick="reload"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="刷新"
+            android:src="@drawable/button_blue_repeat"
+            android:background="#00000000"/>
+        <ImageButton
+            android:id="@+id/retreat_btn"
+            android:onClick="retreat"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="后退"
+            android:src="@drawable/button_blue_first"
+            android:background="#00000000"/>
+
+    </LinearLayout>
+</LinearLayout>

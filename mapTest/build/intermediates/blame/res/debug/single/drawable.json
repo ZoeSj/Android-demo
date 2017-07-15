@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\mapTest\\build\\intermediates\\res\\merged\\debug\\drawable\\image_shape.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\mapTest\\src\\main\\res\\drawable\\image_shape.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\mapTest\\build\\intermediates\\res\\merged\\debug\\drawable\\button_bg.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\mapTest\\src\\main\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\mapTest\\build\\intermediates\\res\\merged\\debug\\drawable\\scale_bg_selector.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\mapTest\\src\\main\\res\\drawable\\scale_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\mapTest\\build\\intermediates\\res\\merged\\debug\\drawable\\start_go_bg.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\mapTest\\src\\main\\res\\drawable\\start_go_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\mapTest\\build\\intermediates\\res\\merged\\debug\\drawable\\img_border.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\mapTest\\src\\main\\res\\drawable\\img_border.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\WerbNews\\mapTest\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_bg.xml",
+        "source": "F:\\AndroidCode\\WerbNews\\mapTest\\src\\main\\res\\drawable\\edit_bg.xml"
+    }
+]

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/a7"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#3C6"
+        android:text="
+        东风夜放花千树，更吹落，星如雨。
+　　宝马雕车香满路。
+　　凤箫声动，玉壶光转，一夜鱼龙舞。
+　　蛾儿雪柳黄金缕，笑语盈盈暗香去。
+　　众里寻他千百度，
+　　蓦然回首，那人却在，灯火阑珊处"/>
+
+</LinearLayout>
